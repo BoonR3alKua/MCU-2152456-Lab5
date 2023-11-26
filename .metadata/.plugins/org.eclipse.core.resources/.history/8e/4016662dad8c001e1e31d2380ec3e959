@@ -1,0 +1,11 @@
+/*
+ * scheduler.c
+ *
+ *  Created on: Nov 27, 2023
+ *      Author: vtanc
+ */
+
+
+#include "scheduler.h"
+
+sTasks SCH_Tasks_G[SCH_MAX_TASKS];
