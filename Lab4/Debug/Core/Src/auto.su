@@ -1,0 +1,5 @@
+auto.c:10:8:RED_GREEN	8	static
+auto.c:32:8:RED_YELLOW	8	static
+auto.c:55:8:GREEN_RED	8	static
+auto.c:77:8:YELLOW_RED	8	static
+auto.c:100:6:seg_fsm	8	static
